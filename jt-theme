@@ -1,0 +1,3 @@
+#!/opt/homebrew/bin/fish
+
+jt -t gruvboxd -f inputmono -tf roboto -nf sourcesans
